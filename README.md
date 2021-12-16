@@ -1,3 +1,3 @@
-# Ecoliss Business
+# ecoliss-business
 
 ecoliss-business
